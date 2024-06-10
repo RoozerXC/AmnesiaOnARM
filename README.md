@@ -1,6 +1,8 @@
 # Amnesia on ARM
 This is just a little experiment I'm doing to port Amnesia: The Dark Descent on ARM/aarch64-based devices, specifically the Raspberry Pi 4
 
+The other fork I saw which was specifically made for linux/bsd started having frantic compiler errors and issues on my end, so i thought forking the TiManGames/AmnesiaTheDarkDescent repo would be good enough since ive had very few errors besides not being able to compile due to the broken symlinks i had earlier. Let's hope I can fix them
+
 Currently it will only support building binaries for Linux since it's easier to make ARM builds this way
 
 ## Prerequisites
